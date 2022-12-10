@@ -19,4 +19,4 @@ jobs:
                   # Edit the following environment variables
                   GIST_ID: d4bf3e0264572e1dabe6d9bfcee9b3c4
                   ALL_COMMITS: true # If `true` it will count all commits, if `false` it will count your last year commits
-                  K_FORMAT: true # If `true`, large numbers will be formatted with a "k", for example "1.5k"
+                  K_FORMAT: false # If `true`, large numbers will be formatted with a "k", for example "1.5k"
